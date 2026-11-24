@@ -1,0 +1,16 @@
+
+appId: com.curso.shopdemo
+---
+- launchApp:
+    clearState: false
+
+- tapOn: 
+    id: "input-email"
+- inputText: "cliente@shopdemo.com"
+
+- tapOn: 
+    id: "input-senha"
+- inputText: "123456"
+
+- hideKeyboard
+- tapOn: "Entrar"

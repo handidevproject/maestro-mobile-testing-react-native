@@ -1,4 +1,3 @@
- #!/usr/bin/env node
 /**
  * Gera relatorio HTML a partir dos commands-*.json do Maestro.
  * Uso: node gerar-relatorio.js <pasta-debug-output> [saida.html]
